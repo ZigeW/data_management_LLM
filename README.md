@@ -1,4 +1,4 @@
-# Training Data Management for LLM
+# Data Management for LLM
 
 A curated list of training data management for large language model resources.
 

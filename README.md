@@ -2,6 +2,8 @@
 
 A curated list of training data management for large language model resources.
 
+The papers are organized according to our survey paper: [Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700).
+
 ## Contents
 
 - [Pretraining](#pretraining)
@@ -17,7 +19,7 @@ A curated list of training data management for large language model resources.
   - [Data Quantity](#data-quantity)
   - [Data Quality](#data-quality)
   - [Task Composition](#task-composition)
-  - [Data Efficient Learning](#data-efficient-learning)
+  - [Data-Efficient Learning](#data-efficient-learning)
 
 - [Useful Resources](#useful-resources)
 
@@ -118,15 +120,19 @@ A curated list of training data management for large language model resources.
 
 - #### Instruction Quality
 
+  - Self-refine: Iterative refinement with self-feedback (Arxiv, Mar. 2023) [[Paper]](https://arxiv.org/abs/2303.17651)[[Project]](https://selfrefine.info/)
   - Lima: Less is more for alignment (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.11206) 
   - Enhancing Chat Language Models by Scaling High-quality Instructional Conversations (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.14233) [[Code]](https://github.com/thunlp/UltraChat)
+  - SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation (Blog post, May 2023) [[Project]](https://kaistai.github.io/SelFee/)
   - INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.04757) [[Code]](https://github.com/declare-lab/instruct-eval)
   - Instruction mining: High-quality instruction data selection for large language models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
   - Harnessing the Power of David against Goliath: Exploring Instruction Data Generation without Using Closed-Source Models (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/pdf/2308.12711.pdf) 
   - Self-Alignment with Instruction Backtranslation (Arxiv. Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.06259) 
+  - SELF: Language-Driven Self-Evolution for Large Language Models (Arxiv, Oct 2023) [[Paper]](https://arxiv.org/abs/2310.00533)
 
 - #### Instruction Diversity
 
+  - Self-instruct: Aligning language models with self-generated instructions (ACL 2023) [[Paper]](https://arxiv.org/abs/2212.10560)[[Code]](https://github.com/yizhongw/self-instruct)
   - Stanford Alpaca (Mar. 2023) [[Code]](https://github.com/tatsu-lab/stanford_alpaca) 
   - Enhancing Chat Language Models by Scaling High-quality Instructional Conversation  (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.14233) [[Code]](https://github.com/thunlp/UltraChat)
   - Lima: Less is more for alignment (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.11206) 
@@ -198,6 +204,9 @@ A curated list of training data management for large language model resources.
   - Data-Juicer: A One-Stop Data Processing System for Large Language Models (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.02033) [[Code]](https://github.com/alibaba/data-juicer)
 
   - LoBaSS: Gauging Learnability in Supervised Fine-tuning Data (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.13008.pdf) 
+  
+  - Contrastive post-training large language models on data curriculum (Arxiv, Oct. 2023)[[Paper]](https://arxiv.org/abs/2310.02263)
+  
 
 ## Useful Resources
 

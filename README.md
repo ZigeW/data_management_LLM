@@ -2,20 +2,17 @@
 
 A curated list of training data management for large language model resources.
 
-The papers are organized according to our survey paper: [Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700).
+The papers are organized according to our survey paper [Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700).
 
 ## Contents
 
 - [Pretraining](#pretraining)
-
   - [Data Quantity](#data-quantity-1)
-
   - [Data Quality](#data-quality-1)
   - [Domain Composition](#domain-composition)
   - [Data Management Systems](#data-management-systems)
 
 - [Supervised Fine-Tuning](#supervised-fine-tuning)
-
   - [Data Quantity](#data-quantity)
   - [Data Quality](#data-quality)
   - [Task Composition](#task-composition)
@@ -28,42 +25,37 @@ The papers are organized according to our survey paper: [Data Management For Lar
 ### Data Quantity
 
 - #### Scaling Laws
-
+  
   - Scaling Laws for Neural Language Models (Arxiv, Jan. 2020) [[Paper]](https://arxiv.org/abs/2001.08361)
-
   - An empirical analysis of compute-optimal large language model training (NeurIPS 2022) [[Paper]](https://papers.nips.cc/paper_files/paper/2022/hash/c1e2faff6f588870935f114ebe04a3e5-Abstract-Conference.html) 
 
 - #### Data Repetition
-
+  
   - Scaling Laws and Interpretability of Learning from Repeated Data (Arxiv, May 2022) [[Paper]](https://arxiv.org/abs/2205.10487)
-
   - Will we run out of data? An analysis of the limits of scaling datasets in Machine Learning (Arxiv, Oct. 2022) [[Paper]](https://arxiv.org/abs/2211.04325)
-
   - Scaling Data-Constrained Language Models (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.16264) [[Code]](https://github.com/huggingface/datablations)
-
   - To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.13230)
-
   - D4: Improving LLM Pretraining via Document De-Duplication and Diversification (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.12284)
 
 ### Data Quality
 
 - #### Deduplication
-
+  
   - Deduplicating training data makes language models better (ACL 2022) [[Paper]](https://arxiv.org/abs/2107.06499) [[Code]](https://github.com/google-research/deduplicate-text-datasets)
   - Deduplicating training data mitigates privacy risks in language models (ICML 2022) [[Paper]](https://proceedings.mlr.press/v162/kandpal22a.html) 
   - Noise-Robust De-Duplication at Scale (ICLR 2022) [[Paper]](https://scholar.harvard.edu/dell/publications/noise-robust-de-duplication-scale) 
   - SemDeDup: Data-efficient learning at web-scale through semantic deduplication (Arxiv, Mar. 2023) [[Paper]](https://arxiv.org/pdf/2303.09540.pdf) [[Code]](https://github.com/facebookresearch/SemDeDup)
-  - The MiniPile Challenge for Data-Efficient Language Models (Arxiv, April 2023) [[Paper]](https://arxiv.org/abs/2304.08442) [[Dataset]](https://huggingface.co/datasets/JeanKaddour/minipile)
 
 - #### Quality Filtering
 
   - An Empirical Exploration in Quality Filtering of Text Data (Arxiv, Sep. 2021) [[Paper]](https://arxiv.org/abs/2109.00698) 
-  - Quality at a glance: An audit of web-crawled multilingual datasets (ACL 2022) [[Paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled) 
+  - Quality at a glance: An audit of web-crawled multilingual datasets (ACL 2022) [[Paper]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled)
+  - The MiniPile Challenge for Data-Efficient Language Models (Arxiv, April 2023) [[Paper]](https://arxiv.org/abs/2304.08442) [[Dataset]](https://huggingface.co/datasets/JeanKaddour/minipile)
   - A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.13169)
   - Textbooks Are All You Need (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.11644) [[Code]](https://github.com/kyegomez/phi-1)
   - The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only (NeurIPS Dataset and Benchmark track 2023) [[Paper]](https://www.semanticscholar.org/paper/7a1e71cb1310c4a873e7a4e54d1a6dab0553adce) [[Dataset]](https://huggingface.co/datasets/tiiuae/falcon-refinedweb)
   - Textbooks Are All You Need II: phi-1.5 technical report (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.05463) [[Model]](https://huggingface.co/microsoft/phi-1_5)
-  - When less is more: Investigating Data Pruning for Pretraining LLMs at Scale (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.04564) 
+  - When less is more: Investigating Data Pruning for Pretraining LLMs at Scale (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.04564)
 
 - #### Toxicity Filtering
 
@@ -75,19 +67,14 @@ The papers are organized according to our survey paper: [Data Management For Lar
 - #### Social Biases
 
   - Documenting large webtext corpora: A case study on the Colossal Clean Crawled Corpus (EMNLP 2021) [[Paper]](https://arxiv.org/abs/2104.08758) 
-
   - An empirical survey of the effectiveness of debiasing techniques for pre-trained language models (ACL, 2022) [[Paper]](https://arxiv.org/abs/2110.08527) [[Code]](https://github.com/McGill-NLP/bias-bench)
-
   - Whose language counts as high quality? Measuring language ideologies in text data selection (EMNLP, 2022) [[Paper]](https://arxiv.org/abs/2201.10474) [[Code]](https://github.com/kernelmachine/quality-filter)
-
   - From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models (ACL 2023) [[Paper]](https://arxiv.org/abs/2305.08283) [[Code]](https://github.com/BunsenFeng/PoliLean)
 
 - #### Diversity & Age
 
   - Beyond Scale: the Diversity Coefficient as a Data Quality Metric Demonstrates LLMs are Pre-trained on Formally Diverse Data (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.13840) 
-
   - D2 Pruning: Message Passing for Balancing Diversity and Difficulty in Data Pruning (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.07931) [[Code]](https://github.com/adymaharana/d2pruning)
-
   - A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.13169)
 
 ### Domain Composition
@@ -194,17 +181,13 @@ The papers are organized according to our survey paper: [Data Management For Lar
 - ##### Task Composition
 
   - Data-Efficient Finetuning Using Cross-Task Nearest Neighbors (ACL Findings, 2023) [[Paper]](https://arxiv.org/abs/2212.00196) [[Code]](https://github.com/allenai/data-efficient-finetuning)
-
   - Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.14327) [[Code]](https://github.com/WadeYin9712/Dynosaur)
-
   - MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.05653) [[Code]](https://github.com/TIGER-AI-Lab/MAmmoTH)
 
 - ##### Others
 
   - Data-Juicer: A One-Stop Data Processing System for Large Language Models (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.02033) [[Code]](https://github.com/alibaba/data-juicer)
-
   - LoBaSS: Gauging Learnability in Supervised Fine-tuning Data (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.13008.pdf) 
-  
   - Contrastive post-training large language models on data curriculum (Arxiv, Oct. 2023)[[Paper]](https://arxiv.org/abs/2310.02263)
   
 

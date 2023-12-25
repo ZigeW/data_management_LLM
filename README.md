@@ -134,6 +134,8 @@ The papers are organized according to our survey paper [Data Management For Larg
   - A Preliminary Study of the Intrinsic Relationship between Complexity and Alignment (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/pdf/2308.05696.pdf) 
   - #InsTag: Instruction Tagging for Analyzing Supervised Fine-Tuning of Large Language Models (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.07074) [[Code]](https://github.com/OFA-Sys/InsTag)
   - Can Large Language Models Understand Real-World Complex Instructions? (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.09150) [[Benchmark]](https://github.com/Abbey4799/CELLO)
+  - Followbench: A multi-level fine-grained constraints following benchmark for large language models (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.20410) [[Code]](https://github.com/YJiangcm/FollowBench)
+
 
 - #### Prompt Design
 

@@ -7,14 +7,14 @@ The papers are organized according to our survey paper [Data Management For Larg
 ## Contents
 
 - [Pretraining](#pretraining)
-  - [Data Quantity](#data-quantity-1)
-  - [Data Quality](#data-quality-1)
+  - [Data Quantity](#data-quantity)
+  - [Data Quality](#data-quality)
   - [Domain Composition](#domain-composition)
   - [Data Management Systems](#data-management-systems)
 
 - [Supervised Fine-Tuning](#supervised-fine-tuning)
-  - [Data Quantity](#data-quantity)
-  - [Data Quality](#data-quality)
+  - [Data Quantity](#data-quantity-1)
+  - [Data Quality](#data-quality-1)
   - [Task Composition](#task-composition)
   - [Data-Efficient Learning](#data-efficient-learning)
 

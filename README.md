@@ -169,15 +169,12 @@ The papers are organized according to our survey paper [Data Management For Larg
   - Becoming self-instruct: introducing early stopping criteria for minimal instruct tuning (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.03692) 
   - How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
 
-- ##### Instruction Quality
+- ##### Data Quality
 
   - NLU on Data Diets: Dynamic Data Subset Selection for NLP Classification Tasks (SustaiNLP, 2023) [[Paper]](https://arxiv.org/pdf/2306.03208.pdf) 
   - Instruction Mining: High-Quality Instruction Data Selection for Large Language Models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
   - AlpaGasus: Training A Better Alpaca with Fewer Data (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.08701) 
   - OpenChat: Advancing Open-source Language Models with Mixed-Quality Data (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/pdf/2309.11235.pdf) [[Code]](https://github.com/imoneoi/openchat)
-
-- ##### Instruction Diversity
-
   - Self-Evolved Diverse Data Sampling for Efficient Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.08182) [[Code]](https://github.com/OFA-Sys/DiverseEvol)
 
 - ##### Task Composition

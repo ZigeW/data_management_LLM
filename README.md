@@ -188,6 +188,7 @@ The papers are organized according to our survey paper [Data Management For Larg
   - Data-Juicer: A One-Stop Data Processing System for Large Language Models (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.02033) [[Code]](https://github.com/alibaba/data-juicer)
   - LoBaSS: Gauging Learnability in Supervised Fine-tuning Data (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.13008.pdf) 
   - Contrastive post-training large language models on data curriculum (Arxiv, Oct. 2023)[[Paper]](https://arxiv.org/abs/2310.02263)
+  - What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning (Arxiv, Dec. 2023)[[Paper]](https://arxiv.org/abs/2312.15685) [[Code]](https://github.com/hkust-nlp/deita)
   
 
 ## Useful Resources

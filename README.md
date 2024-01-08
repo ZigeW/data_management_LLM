@@ -115,7 +115,8 @@ The papers are organized according to our survey paper [Data Management For Larg
   - Instruction mining: High-quality instruction data selection for large language models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
   - Harnessing the Power of David against Goliath: Exploring Instruction Data Generation without Using Closed-Source Models (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/pdf/2308.12711.pdf) 
   - Self-Alignment with Instruction Backtranslation (Arxiv. Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.06259) 
-  - SELF: Language-Driven Self-Evolution for Large Language Models (Arxiv, Oct 2023) [[Paper]](https://arxiv.org/abs/2310.00533)
+  - SELF: Language-Driven Self-Evolution for Large Language Models (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.00533)
+  - Automatic Instruction Optimization for Open-source LLM Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.13246) [[Code]](https://github.com/lunyiliu/CoachLM)
 
 - #### Instruction Diversity
 
@@ -125,6 +126,8 @@ The papers are organized according to our survey paper [Data Management For Larg
   - Lima: Less is more for alignment (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.11206) 
   - #InsTag: Instruction Tagging for Analyzing Supervised Fine-Tuning of Large Language Models (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.07074) [[Code]](https://github.com/OFA-Sys/InsTag)
   - Explore-Instruct: Enhancing Domain-Specific Instruction Coverage through Active Exploration (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.09168) [[Code]](https://github.com/fanqiwan/Explore-Instruct)
+  - DiffTune: A Diffusion-Based Approach to Diverse Instruction-Tuning Data Generation (NeurIPS 2023) [[Paper]](https://neurips2023-enlsp.github.io/papers/paper_82.pdf)
+  - Data Diversity Matters for Robust Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.14736)
 
 - #### Instruction Complexity
 
@@ -174,8 +177,13 @@ The papers are organized according to our survey paper [Data Management For Larg
   - NLU on Data Diets: Dynamic Data Subset Selection for NLP Classification Tasks (SustaiNLP, 2023) [[Paper]](https://arxiv.org/pdf/2306.03208.pdf) 
   - Instruction Mining: High-Quality Instruction Data Selection for Large Language Models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
   - AlpaGasus: Training A Better Alpaca with Fewer Data (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.08701) 
-  - OpenChat: Advancing Open-source Language Models with Mixed-Quality Data (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/pdf/2309.11235.pdf) [[Code]](https://github.com/imoneoi/openchat)
+  - OpenChat: Advancing Open-source Language Models with Mixed-Quality Data (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.11235) [[Code]](https://github.com/imoneoi/openchat)
   - Self-Evolved Diverse Data Sampling for Efficient Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.08182) [[Code]](https://github.com/OFA-Sys/DiverseEvol)
+  - Data Diversity Matters for Robust Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.14736)
+  - WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.14187)
+  - One Shot Learning as Instruction Data Prospector for Large Language Models (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.10302)
+  - Rethinking the Instruction Quality: LIFT is What You Need (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.11508)
+  - MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.02436)
 
 - ##### Task Composition
 

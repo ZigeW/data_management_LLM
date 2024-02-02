@@ -190,12 +190,14 @@ The papers are organized according to our survey paper [Data Management For Larg
   - Data-Efficient Finetuning Using Cross-Task Nearest Neighbors (ACL Findings, 2023) [[Paper]](https://arxiv.org/abs/2212.00196) [[Code]](https://github.com/allenai/data-efficient-finetuning)
   - Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.14327) [[Code]](https://github.com/WadeYin9712/Dynosaur)
   - MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.05653) [[Code]](https://github.com/TIGER-AI-Lab/MAmmoTH)
+  - Active Instruction Tuning: Improving Cross-Task Generalization by Training on Prompt Sensitive Tasks (EMNLP 2023) [[Paper]](https://arxiv.org/abs/2311.00288) [[Code]](https://github.com/PlusLabNLP/Active-IT)
 
 - ##### Others
 
   - Data-Juicer: A One-Stop Data Processing System for Large Language Models (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.02033) [[Code]](https://github.com/alibaba/data-juicer)
   - LoBaSS: Gauging Learnability in Supervised Fine-tuning Data (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.13008.pdf) 
   - Contrastive post-training large language models on data curriculum (Arxiv, Oct. 2023)[[Paper]](https://arxiv.org/abs/2310.02263)
+  - IDEAL: Influence-Driven Selective Annotations Empower In-Context Learners in Large Language Models (ICLR 2024) [[Paper]](https://arxiv.org/abs/2310.10873) [[Code]](https://skzhang1.github.io/IDEAL/)
   - What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning (Arxiv, Dec. 2023)[[Paper]](https://arxiv.org/abs/2312.15685) [[Code]](https://github.com/hkust-nlp/deita)
   
 

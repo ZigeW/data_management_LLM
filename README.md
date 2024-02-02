@@ -178,12 +178,15 @@ The papers are organized according to our survey paper [Data Management For Larg
   - Instruction Mining: High-Quality Instruction Data Selection for Large Language Models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
   - AlpaGasus: Training A Better Alpaca with Fewer Data (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.08701) 
   - OpenChat: Advancing Open-source Language Models with Mixed-Quality Data (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.11235) [[Code]](https://github.com/imoneoi/openchat)
+  - Tuna: Instruction Tuning using Feedback from Large Language Models (EMNLP 2023) [[Paper]](https://arxiv.org/abs/2310.13385) [[Code]](https://github.com/microsoft/LMOps)
   - Self-Evolved Diverse Data Sampling for Efficient Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.08182) [[Code]](https://github.com/OFA-Sys/DiverseEvol)
   - Data Diversity Matters for Robust Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.14736)
   - WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.14187)
   - One Shot Learning as Instruction Data Prospector for Large Language Models (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.10302)
   - Rethinking the Instruction Quality: LIFT is What You Need (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.11508)
   - MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.02436)
+  - One Shot Learning as Instruction Data Prospector for Large Language Models (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.10302)
+  - An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models (Arxiv, Jan. 2024) [[Paper]](https://arxiv.org/abs/2401.06692)
 
 - ##### Task Composition
 

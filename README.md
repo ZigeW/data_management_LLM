@@ -112,7 +112,7 @@ The papers are organized according to our survey paper [Data Management For Larg
   - Enhancing Chat Language Models by Scaling High-quality Instructional Conversations (Arxiv, May 2023) [[Paper]](https://arxiv.org/abs/2305.14233) [[Code]](https://github.com/thunlp/UltraChat)
   - SelFee: Iterative Self-Revising LLM Empowered by Self-Feedback Generation (Blog post, May 2023) [[Project]](https://kaistai.github.io/SelFee/)
   - INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models (Arxiv, Jun. 2023) [[Paper]](https://arxiv.org/abs/2306.04757) [[Code]](https://github.com/declare-lab/instruct-eval)
-  - Instruction mining: High-quality instruction data selection for large language models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
+  - Instruction mining: High-quality instruction data selection for large language models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) [[Code]](https://openreview.net/attachment?id=kce6LTZ5vY&name=supplementary_material)
   - Harnessing the Power of David against Goliath: Exploring Instruction Data Generation without Using Closed-Source Models (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/pdf/2308.12711.pdf) 
   - Self-Alignment with Instruction Backtranslation (Arxiv. Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.06259) 
   - SELF: Language-Driven Self-Evolution for Large Language Models (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.00533)
@@ -175,18 +175,20 @@ The papers are organized according to our survey paper [Data Management For Larg
 - ##### Data Quality
 
   - NLU on Data Diets: Dynamic Data Subset Selection for NLP Classification Tasks (SustaiNLP, 2023) [[Paper]](https://arxiv.org/pdf/2306.03208.pdf) 
-  - Instruction Mining: High-Quality Instruction Data Selection for Large Language Models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) 
+  - Instruction Mining: High-Quality Instruction Data Selection for Large Language Models (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/pdf/2307.06290.pdf) [[Code]](https://openreview.net/attachment?id=kce6LTZ5vY&name=supplementary_material)
   - AlpaGasus: Training A Better Alpaca with Fewer Data (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.08701) 
   - OpenChat: Advancing Open-source Language Models with Mixed-Quality Data (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.11235) [[Code]](https://github.com/imoneoi/openchat)
   - Tuna: Instruction Tuning using Feedback from Large Language Models (EMNLP 2023) [[Paper]](https://arxiv.org/abs/2310.13385) [[Code]](https://github.com/microsoft/LMOps)
   - Self-Evolved Diverse Data Sampling for Efficient Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.08182) [[Code]](https://github.com/OFA-Sys/DiverseEvol)
   - Data Diversity Matters for Robust Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.14736)
+  - MoDS: Model-oriented Data Selection for Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.15653) [[Code]](https://github.com/CASIA-LM/MoDS)
   - WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.14187)
   - One Shot Learning as Instruction Data Prospector for Large Language Models (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.10302)
   - Rethinking the Instruction Quality: LIFT is What You Need (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.11508)
   - MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.02436)
   - One Shot Learning as Instruction Data Prospector for Large Language Models (Arxiv, Dec. 2023) [[Paper]](https://arxiv.org/abs/2312.10302)
   - An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models (Arxiv, Jan. 2024) [[Paper]](https://arxiv.org/abs/2401.06692)
+  - Superfiltering: Weak-to-Strong Data Filtering for Fast Instruction-Tuning (Arxiv, Feb. 2024) [[Paper]](https://arxiv.org/abs/2402.00530) [[Code]](https://github.com/tianyi-lab/Superfiltering)
 
 - ##### Task Composition
 

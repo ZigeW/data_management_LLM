@@ -116,6 +116,7 @@ The papers are organized according to our survey paper [Data Management For Larg
   - Harnessing the Power of David against Goliath: Exploring Instruction Data Generation without Using Closed-Source Models (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/pdf/2308.12711.pdf) 
   - Self-Alignment with Instruction Backtranslation (Arxiv. Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.06259) 
   - SELF: Language-Driven Self-Evolution for Large Language Models (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/abs/2310.00533)
+  - Reflection-Tuning: Recycling Data for Better Instruction-Tuning (NeurIPS 2023 Instruction Workshop) [[Paper]](https://openreview.net/forum?id=xaqoZZqkPU) [[Code]](https://github.com/tianyi-lab/Reflection_Tuning)
   - Automatic Instruction Optimization for Open-source LLM Instruction Tuning (Arxiv, Nov. 2023) [[Paper]](https://arxiv.org/abs/2311.13246) [[Code]](https://github.com/lunyiliu/CoachLM)
 
 - #### Instruction Diversity
@@ -169,7 +170,8 @@ The papers are organized according to our survey paper [Data Management For Larg
 
 - ##### Data Quantity
 
-  - Becoming self-instruct: introducing early stopping criteria for minimal instruct tuning (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.03692) 
+  - Becoming self-instruct: introducing early stopping criteria for minimal instruct tuning (Arxiv, Jul. 2023) [[Paper]](https://arxiv.org/abs/2307.03692)
+  - From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning (Arxiv, Aug. 2023) [[Paper]](https://arxiv.org/abs/2308.12032) [[Code]](https://github.com/MingLiiii/Cherry_LLM)
   - How Abilities in Large Language Models are Affected by Supervised Fine-tuning Data Composition (Arxiv, Oct. 2023) [[Paper]](https://arxiv.org/pdf/2310.05492.pdf) 
 
 - ##### Data Quality

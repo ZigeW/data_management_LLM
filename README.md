@@ -206,6 +206,7 @@ The papers are organized according to our survey paper [Data Management For Larg
   - Contrastive post-training large language models on data curriculum (Arxiv, Oct. 2023)[[Paper]](https://arxiv.org/abs/2310.02263)
   - IDEAL: Influence-Driven Selective Annotations Empower In-Context Learners in Large Language Models (ICLR 2024) [[Paper]](https://arxiv.org/abs/2310.10873) [[Code]](https://skzhang1.github.io/IDEAL/)
   - What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning (Arxiv, Dec. 2023)[[Paper]](https://arxiv.org/abs/2312.15685) [[Code]](https://github.com/hkust-nlp/deita)
+  - LESS: Selecting Influential Data for Targeted Instruction Tuning (Arxiv, Feb. 2024)[[Paper]](https://arxiv.org/abs/2402.04333) [[Code]](https://github.com/princeton-nlp/LESS)
   
 
 ## Useful Resources

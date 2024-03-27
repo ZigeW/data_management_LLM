@@ -56,6 +56,7 @@ The papers are organized according to our survey paper [Data Management For Larg
   - The RefinedWeb Dataset for Falcon LLM: Outperforming Curated Corpora with Web Data, and Web Data Only (NeurIPS Dataset and Benchmark track 2023) [[Paper]](https://www.semanticscholar.org/paper/7a1e71cb1310c4a873e7a4e54d1a6dab0553adce) [[Dataset]](https://huggingface.co/datasets/tiiuae/falcon-refinedweb)
   - Textbooks Are All You Need II: phi-1.5 technical report (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.05463) [[Model]](https://huggingface.co/microsoft/phi-1_5)
   - When less is more: Investigating Data Pruning for Pretraining LLMs at Scale (Arxiv, Sep. 2023) [[Paper]](https://arxiv.org/abs/2309.04564)
+  - DeepSeek LLM: Scaling Open-Source Language Models with Longtermism (Arxiv, Jan. 2024) [[Paper]](https://arxiv.org/abs/2401.02954)
 
 - #### Toxicity Filtering
 

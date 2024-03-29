@@ -2,7 +2,7 @@
 
 A curated list of training data management for large language model resources.
 
-The papers are organized according to our survey paper [Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700).
+<!--The papers are organized according to our survey paper [Data Management For Large Language Models: A Survey](https://arxiv.org/abs/2312.01700).-->
 
 ## Contents
 

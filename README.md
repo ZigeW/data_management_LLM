@@ -14,9 +14,10 @@ A curated list of training data management for large language model resources.
 
 - [Supervised Fine-Tuning](#supervised-fine-tuning)
   - [Task Composition](#task-composition)
-  - [Data Quality](#data-quality)
-  - [Data Quantity](#data-quantity)
+  - [Data Quality](#data-quality-1)
+  - [Data Quantity](#data-quantity-1)
   - [Dynamic Data-Efficient Learning](#dynamic-data-efficient-learning)
+  - [Relations Among Different Aspects](#relations-among-different-aspects-1)
 
 - [Useful Resources](#useful-resources)
 
